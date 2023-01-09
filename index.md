@@ -167,7 +167,7 @@ layout: home
 - [Georgia Ede, M.D.](https://twitter.com/GeorgiaEdeMD) (@GeorgiaEdeMD)
 - [Miki Ben-Dor](https://twitter.com/bendormiki) (@bendormiki)
 - [Raphi Sirt](https://twitter.com/raphaels7) (@raphaels7)
-- [Mikhaila Peterson](https://twitter.com/MikhailaAleksis) (@MikhailaAleksis)
+- [Mikhaila Peterson](https://twitter.com/MikhailaFuller) (@MikhailaFuller)  
 - [Dr. Ann Childers](https://twitter.com/AnnChildersMD) (@AnnChildersMD)
 - [Peter Ballerstedt](https://twitter.com/GrassBased) (@GrassBased)
 - [Travis Statham](https://twitter.com/travis_statham) (@travis_statham)
